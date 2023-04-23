@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de6eeb9-506f-4b40-909b-ff8059176d55" name="Changes" comment="First commit 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="9de6eeb9-506f-4b40-909b-ff8059176d55" name="Changes" comment="Application start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682273494516</updated>
       <workItem from="1682273496196" duration="84000" />
-      <workItem from="1682273619535" duration="958000" />
+      <workItem from="1682273619535" duration="1456000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1682273640033</created>
@@ -81,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682273693785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Application start">
+      <created>1682274855023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682274855023</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="First commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit 1" />
+    <MESSAGE value="Application start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application start" />
   </component>
 </project>
