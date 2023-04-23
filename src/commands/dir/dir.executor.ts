@@ -3,7 +3,7 @@ import { CommandExecutor } from '../../core/executor/command.executor'
 import { ICommandExec } from '../../core/executor/command.types'
 import { IStreamLogger } from '../../core/handlers/stream-logger.interface'
 import { StreamHandler } from '../../core/handlers/stream.handler'
-import { PromptService } from '../../core/prompt/prompt.service.js'
+import { PromptService } from '../../core/prompt/prompt.service'
 import { DirBuilder } from './dir.builder'
 import { DirInput } from './dir.types'
 
