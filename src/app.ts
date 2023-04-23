@@ -1,4 +1,4 @@
-import { PromptService } from './core/prompt/prompt.service'
+import { PromptService } from './core/prompt/prompt.service.js'
 
 
 export class App {
