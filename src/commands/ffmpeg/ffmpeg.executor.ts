@@ -3,7 +3,7 @@ import { CommandExecutor } from '../../core/executor/command.executor'
 import { FileService } from '../../core/files/file.service'
 import { IStreamLogger } from '../../core/handlers/stream-logger.interface'
 import { StreamHandler } from '../../core/handlers/stream.handler'
-import { PromptService } from '../../core/prompt/prompt.service'
+import { PromptService } from '../../core/prompt/prompt.service.js'
 import { FfmpegBuilder } from './ffmpeg.builder'
 import { ICommandExecFfmpeg, IFfmpegInput } from './ffmpeg.types'
 
